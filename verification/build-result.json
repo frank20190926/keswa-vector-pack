@@ -1,0 +1,55 @@
+{
+  "component_count": 17,
+  "anchors_total": 161,
+  "curved_glyphs": {
+    "04_S_Curved_Glyph": {
+      "anchors": 17,
+      "cubic_segments": 9
+    },
+    "06_A_Rounded_Arch": {
+      "anchors": 9,
+      "cubic_segments": 2
+    },
+    "11_Sub_C_4": {
+      "anchors": 10,
+      "cubic_segments": 8
+    },
+    "13_Sub_R_6": {
+      "anchors": 15,
+      "cubic_segments": 4
+    },
+    "15_Sub_C_8": {
+      "anchors": 10,
+      "cubic_segments": 8
+    }
+  },
+  "pdf_pages": 3,
+  "pdf_named_layers": 17,
+  "dxf_component_layers": [
+    "01_K_VERTICAL_STEM",
+    "02_K_DIAGONAL_CHEVRON",
+    "03_E_SLANTED_BLOCK",
+    "04_S_CURVED_GLYPH",
+    "05_W_DOUBLE_APEX",
+    "06_A_ROUNDED_ARCH",
+    "07_A_DELTA_TRIANGLE",
+    "08_SUB_E_1",
+    "09_SUB_L_2",
+    "10_SUB_E_3",
+    "11_SUB_C_4",
+    "12_SUB_T_5",
+    "13_SUB_R_6",
+    "14_SUB_I_7",
+    "15_SUB_C_8",
+    "16_SUB_A_9",
+    "17_SUB_L_10"
+  ],
+  "dxf_audit_errors": 0,
+  "dxf_splines": 31,
+  "svg_xml_valid": true,
+  "illustrator_cc_roundtrip": "NOT TESTED - Illustrator unavailable",
+  "ai_native_cc_hybrid": false,
+  "png_preserves_layers": false,
+  "logo_live_type": false,
+  "zip_members": 62
+}
